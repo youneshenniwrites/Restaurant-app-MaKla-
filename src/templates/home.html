@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block head_title %}{{ block.super }}{% endblock head_title %}
+
+{% block content %}
+    <div class="col-sm-6 text-center col-sm-offset-3">
+        <div class="thumbnail" style="margin-top: 15px">
+            <h3>Welcome to MaKla web app!</h3>
+            <h4>
+                To check the <a href="/restaurants/">list of restaurants</a>:<br>
+                <a href="/login/">Login</a> or <a href="/register/">Register with us.</a>
+            </h4>
+        </div>
+    </div>
+{% endblock content %}

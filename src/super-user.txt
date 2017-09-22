@@ -1,0 +1,3 @@
+name: Batman2
+email: henni@gmail.com
+password: standard
