@@ -1,4 +1,7 @@
 # Restaurant-app-MaKla-
+
+demo here: https://makla.herokuapp.com/
+
 basic web app using Django 1.11
 I built this app to familirize myself with the new features of Django 1.11.
 This app is constructed using the CRUD architecture.
